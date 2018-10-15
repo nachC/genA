@@ -2,7 +2,7 @@
 
 **Processing project based on a simple generative algorithm.**
 
-I'm trying to add effects (like filter) to a photo using objects like circles and their interactions.
+I'm trying to add effects to pictures using objects like circles and their interactions.
 
 **It looks like this:**
 
